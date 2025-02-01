@@ -19,5 +19,5 @@
 - [TicTacToe](https://github.com/AbdulAzizKh4tri/TicTacToe) - Play Tic Tac Toe against a computer, Thanks [ubkn0909](https://github.com/ubkn0909) for the funny readme
 
 ## Connect with me
-- [Email](abdulazizahk@gmail.com)
+- [Email](maito:abdulazizahk@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abdulazizkhatri/)
