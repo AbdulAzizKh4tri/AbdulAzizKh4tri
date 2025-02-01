@@ -11,25 +11,13 @@
 - **Web Development:** Django, Django REST Framework, HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, Linux, Docker
 
-## Check out my pinned repositories
+## Check out some of my projects
+- [MineSweeper](https://github.com/AbdulAzizKh4tri/Minesweeper) - Play Minesweeper
+- [Auto Solving Minesweeper](https://github.com/AbdulAzizKh4tri/MinesweeperAI) - Watch a computer play Minesweeper
+- [Penpals](https://github.com/AbdulAzizKh4tri/LetsHack) - Mainly Django backend project,
+- [Yumster](https://github.com/AbdulAzizKh4tri/Yumster) - Food delivery app, full stack PHP project
+- [TicTacToe](https://github.com/AbdulAzizKh4tri/TicTacToe) - Play Tic Tac Toe against a computer, Thanks [ubkn0909](https://github.com/ubkn0909) for the funny readme
 
 ## Connect with me
-- (Email)[abdulazizahk@gmail.com]
-- (LinkedIn)[https://www.linkedin.com/in/abdulazizkhatri/]
-
-### 🔥 Let's build something awesome!
-
-<!--
-**AbdulAzizKh4tri/AbdulAzizKh4tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email](abdulazizahk@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/abdulazizkhatri/)
