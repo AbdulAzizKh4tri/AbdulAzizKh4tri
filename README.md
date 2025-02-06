@@ -14,6 +14,7 @@
 ## Check out some of my projects (Repos pinned)
 - [MineSweeper](https://abdulazizkh4tri.github.io/Minesweeper/minesweeper_aio.html) - Play Minesweeper
 - [Auto Solving Minesweeper](https://abdulazizkh4tri.github.io/MinesweeperAI/all_in_one.html) - Watch a computer play Minesweeper
+- [Chess](https://abdulazizkh4tri.github.io/Chess/chess.html) - Play Chess! Feel free to ADD YOUR OWN THEME!
 - [Penpals](https://github.com/AbdulAzizKh4tri/LetsHack) - Mainly Django backend project,
 - [Yumster](https://github.com/AbdulAzizKh4tri/Yumster) - Food delivery app, full stack PHP project
 - [TicTacToe](https://abdulazizkh4tri.github.io/TicTacToe/tictactoe.html) - Play Tic Tac Toe against a computer, Thanks [ubkn0909](https://github.com/ubkn0909) for the funny readme
