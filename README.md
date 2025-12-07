@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm AbdulAziz Khatri!
 
-## About Me
+## [About Me](https://github.com/AbdulAzizKh4tri/AbdulAzizKh4tri/blob/main/resume_30_11_25.pdf)
 - Final Year Computer Science Student
 - Django Developer, Oracle Java Professsional, SQL specialist and PL/SQL specialist.
 - Passionate about Problem Solving, Web Development, and Databases
